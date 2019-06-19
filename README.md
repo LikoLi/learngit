@@ -123,7 +123,7 @@ git log --pretty=format:"%h %s" --graph # 当 oneline 或 format 与另一个 lo
 
 git log --pretty=format: 常用的选项
 | 选项 | 说明 |
-| --- | --- |
+|---|---|
 | %H | 提交对象（commit）的完整哈希字串 |
 | %h | 提交对象的简短哈希字串 |
 | %T | 树对象（tree）的完整哈希字串 |
